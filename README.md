@@ -1,6 +1,6 @@
 # 🌍 NASA – Atmospheric Radiation Analysis
 
-On **May 25, 2025**, satellite data captured visualizations of Earth's atmospheric radiation — specifically over the **Cape Verde region** — with the goal of enhancing understanding and supporting research.
+On **May 23, 2025**, satellite data captured visualizations of Earth's atmospheric radiation — specifically over the **Cape Verde region** — with the goal of enhancing understanding and supporting research.
 
 This project analyzes and visualizes solar radiation using satellite data to explore how radiation varies across different spectral bands and regions of the Earth.
 
