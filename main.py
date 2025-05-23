@@ -2,8 +2,6 @@ import h5py
 from heatmap import HeatMap
 from timeline import TimeLine
 from radial import Radial
-import matplotlib.pyplot as plt
-import numpy as np
 
 def process(file):
     band5 = file['BAND5_RADIANCE']
