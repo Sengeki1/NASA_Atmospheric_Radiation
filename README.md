@@ -53,4 +53,3 @@ This project uses public NASA satellite data. For educational and research purpo
 ---
 
 Developed as part of a data visualization study on atmospheric radiation.
->>>>>>> 3e37c036e0c0bb808e7dab7b30c065d1d6229e4e
